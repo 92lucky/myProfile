@@ -17,8 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" />
 </p>
 
-## 📈 GitHub Stats
-![YusranFrontEnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusranFrontEnd&show_icons=true&theme=default)
+
 
 <!---
 YusranFrontEnd/YusranFrontEnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
